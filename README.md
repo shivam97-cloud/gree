@@ -1,0 +1,2 @@
+# gree
+GREETING FOR MY STORE
